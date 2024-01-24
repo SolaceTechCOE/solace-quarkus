@@ -24,9 +24,9 @@
   </modules>
 
   <scm>
-    <connection>scm:git:git@github.com:SolaceCoEExt/solace-quarkus.git</connection>
-    <developerConnection>scm:git:git@github.com:SolaceCoEExt/solace-quarkus.git</developerConnection>
-    <url>https://github.com/SolaceCoEExt/solace-quarkus</url>
+    <connection>scm:git:git@github.com:SolaceTechCOE/solace-quarkus.git</connection>
+    <developerConnection>scm:git:git@github.com:SolaceTechCOE/solace-quarkus.git</developerConnection>
+    <url>https://github.com/SolaceTechCOE/solace-quarkus</url>
   </scm>
 
   <properties>
