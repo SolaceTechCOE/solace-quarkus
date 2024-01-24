@@ -9,9 +9,9 @@ We'd love for you to contribute and welcome your help. Here are some guidelines 
 
 ## <a name="issue"></a> Did you find a issue?
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/SolaceCoEExt/solace-quarkus/issues).
+* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/SolaceTechCOE/solace-quarkus/issues).
 
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/SolaceCoEExt/solace-quarkus/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
+* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/SolaceTechCOE/solace-quarkus/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
 ## <a name="submitting"></a> Did you write a patch that fixes a bug?
 
@@ -19,7 +19,7 @@ Open a new GitHub pull request with the patch following the steps outlined below
 
 Before you submit your pull request consider the following guidelines:
 
-* Search [GitHub](https://github.com/SolaceCoEExt/solace-quarkus/pulls) for an open or closed Pull Request
+* Search [GitHub](https://github.com/SolaceTechCOE/solace-quarkus/pulls) for an open or closed Pull Request
   that relates to your submission. You don't want to duplicate effort.
 * Make sure you add integration test for the fix you are submitting.
 * If your fix is adding a new configuration make sure it is documented in docs/ folder of this project.
@@ -30,7 +30,7 @@ Please follow these steps for all pull requests. These steps are derived from th
 
 #### Step 1: Fork
 
-Fork the project [on GitHub](https://github.com/SolaceCoEExt/solace-quarkus) and clone your fork
+Fork the project [on GitHub](https://github.com/SolaceTechCOE/solace-quarkus) and clone your fork
 locally.
 
 ```sh
@@ -95,7 +95,7 @@ That's it! Thank you for your contribution!
 
 ## <a name="features"></a> **Do you have an ideas for a new feature or a change to an existing one?**
 
-* Open a GitHub [enhancement request issue](https://github.com/SolaceCoEExt/solace-quarkus/issues/new) and describe the new functionality.
+* Open a GitHub [enhancement request issue](https://github.com/SolaceTechCOE/solace-quarkus/issues/new) and describe the new functionality.
 
 ##  <a name="questions"></a> Do you have questions about the source code?
 
