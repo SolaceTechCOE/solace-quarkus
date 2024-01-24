@@ -68,7 +68,7 @@ $ git rebase upstream/master
 If you have not set the upstream, do so as follows:
 
 ```sh
-$ git remote add upstream https://github.com/SolaceCoEExt/solace-quarkus
+$ git remote add upstream https://github.com/SolaceTechCOE/solace-quarkus
 ```
 
 If you have already pushed your fork, then do not rebase. Instead merge any changes from master that are not already part of your branch.
